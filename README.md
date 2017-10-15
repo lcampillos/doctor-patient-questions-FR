@@ -11,7 +11,7 @@ Leonardo Campillos Llanos, Sophie Rosset, Pierre Zweigenbaum
   ```
   @article{llanos2017automatic,   
   title={Automatic classification of doctor-patient questions for a virtual patient record query task},  
-  author={Llanos, Leonardo Campillos and Rosset, Sophie and Zweigenbaum, Pierre},   
+  author={Campillos Llanos, Leonardo and Rosset, Sophie and Zweigenbaum, Pierre},   
   journal={BioNLP 2017},   
   pages={333--341},   
   year={2017}   
