@@ -8,7 +8,8 @@ If you use these data, please cite our BioNLP contribution as follows:
 Leonardo Campillos Llanos, Sophie Rosset, Pierre Zweigenbaum   
 *Proc. of BioNLP 2017*, August 4 2017, Vancouver, Canada, pp. 333-341   
 
-  ```@article{llanos2017automatic,   
+  ```
+  @article{llanos2017automatic,   
   title={Automatic classification of doctor-patient questions for a virtual patient record query task},  
   author={Llanos, Leonardo Campillos and Rosset, Sophie and Zweigenbaum, Pierre},   
   journal={BioNLP 2017},   
