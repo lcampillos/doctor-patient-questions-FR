@@ -14,8 +14,8 @@ Leonardo Campillos Llanos, Sophie Rosset, Pierre Zweigenbaum
   journal={BioNLP 2017},   
   pages={333--341},   
   year={2017}   
-}```
-
+  }
+  ```
 
    Note that these data were manually collected from books aimed at medical consultation and clinical examination, as well as resources for medical translation. These sources also need to be referenced as follows: 
 
