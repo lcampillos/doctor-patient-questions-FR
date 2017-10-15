@@ -19,21 +19,21 @@ Leonardo Campillos Llanos, Sophie Rosset, Pierre Zweigenbaum
 
    Note that these data were manually collected from books aimed at medical consultation and clinical examination, as well as resources for medical translation. These sources also need to be referenced as follows: 
 
-   Barbara Bates and Lynn S Bickley. 2014. 
+   * Barbara Bates and Lynn S Bickley. 2014. 
    *Guide de l’examen clinique-Nouvelle édition 2014.*  
    Arnette- John Libbey Eurotext.
    
-   Claire Coudé, Franois-Xavier Coudé, and Kai Kassmann. 2011. 
+   * Claire Coudé, Franois-Xavier Coudé, and Kai Kassmann. 2011. 
    *Guide de conversation médicale - français-anglais-allemand.* 
    Lavoisier, Médecine Sciences Publications.
 
-   Owen Epstein, David Perkin, John Cookson, and David P. de Bono. 2015. 
+   * Owen Epstein, David Perkin, John Cookson, and David P. de Bono. 2015. 
    *Guide pratique de l’examen clinique.*  
    Elsevier Masson, Paris.
    
-   Pastore, 2015 Félicie Pastore. 2015. 
+   * Pastore, 2015 Félicie Pastore. 2015. 
    *How can I help you today? Guide de la consultation médicale et paramédicale en anglais*. 
    Ellipses, Paris.
 
-   [UMVF/Medical English Portal](http://anglaismedical.u-bourgogne.fr/)
-   UFR Médecine de Dijon
+   * [UMVF/Medical English Portal](http://anglaismedical.u-bourgogne.fr/)  
+   UFR Médecine de Dijon (Last access: May 2017)
