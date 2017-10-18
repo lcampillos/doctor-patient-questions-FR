@@ -54,7 +54,7 @@ Leonardo Campillos Llanos, Sophie Rosset, Pierre Zweigenbaum
    *Guide pratique de l’examen clinique.*  
    Elsevier Masson, Paris.
    
-   * Pastore, 2015 Félicie Pastore. 2015. 
+   * Félicie Pastore. 2015. 
    *How can I help you today? Guide de la consultation médicale et paramédicale en anglais*. 
    Ellipses, Paris.
 
