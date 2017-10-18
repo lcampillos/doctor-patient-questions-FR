@@ -2,11 +2,11 @@
 
 These are the test and training data used for experiments presented in BioNLP 2017.
 
-# Licence
+## Licence
 
 The data are only aimed for research, educational and non-commercial purposes.
 
-# How to cite
+## How to cite
 
 If you use these data, please cite our contribution to BioNLP 2017 as follows:
 
