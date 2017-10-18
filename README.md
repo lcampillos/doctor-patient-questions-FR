@@ -1,8 +1,14 @@
 # Doctor-patient questions (French)
 
-These are the test and training data used for experiments presented in BioNLP 2017
+These are the test and training data used for experiments presented in BioNLP 2017.
 
-If you use these data, please cite our BioNLP contribution as follows:
+# Licence
+
+The data are only aimed for research, educational and non-commercial purposes.
+
+# How to cite
+
+If you use these data, please cite our contribution to BioNLP 2017 as follows:
 
    [Automatic classification of doctor-patient questions for a virtual patient record query task](http://www.aclweb.org/anthology/W17-2343)  
 Leonardo Campillos Llanos, Sophie Rosset, Pierre Zweigenbaum   
