@@ -16,8 +16,8 @@ Leonardo Campillos Llanos, Sophie Rosset, Pierre Zweigenbaum
 
   ```
   @inproceedings{Campillos:BIONLP2017,   
-  title={Automatic classification of doctor-patient questions for a virtual patient record query task},  
-  author={Campillos Llanos, Leonardo and Rosset, Sophie and Zweigenbaum, Pierre},   
+  title       = {Automatic classification of doctor-patient questions for a virtual patient record query task},  
+  author       = {Campillos Llanos, Leonardo and Rosset, Sophie and Zweigenbaum, Pierre},   
   booktitle = {BioNLP 2017},
   publisher =     {Association for Computational Linguistics},
   location =     {Vancouver, Canada},
