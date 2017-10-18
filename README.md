@@ -15,13 +15,29 @@ Leonardo Campillos Llanos, Sophie Rosset, Pierre Zweigenbaum
 *Proc. of BioNLP 2017*, August 4 2017, Vancouver, Canada, pp. 333-341   
 
   ```
-  @article{llanos2017automatic,   
+  @inproceedings{Campillos:BIONLP2017,   
   title={Automatic classification of doctor-patient questions for a virtual patient record query task},  
   author={Campillos Llanos, Leonardo and Rosset, Sophie and Zweigenbaum, Pierre},   
-  journal={BioNLP 2017},   
-  pages={333--341},   
-  year={2017}   
-  }
+  booktitle = {BioNLP 2017},
+  publisher =     {Association for Computational Linguistics},
+  location =     {Vancouver, Canada},
+  pages     = {333--341},
+  year      = 2017,
+  urlALT       = {https://doi.org/10.18653/v1/W17-2343.pdf},
+  url       = {http://www.aclweb.org/anthology/W17-2343.pdf},
+  urlALT =     {http://aclanthology.coli.uni-saarland.de/pdf/W/W17/W17-2343.pdf},
+  doi       = {10.18653/v1/W17-2343},
+  month     = AUG,
+  abstract  = {We present the work-in-progress of automating the classification of
+    doctor-patient questions in the context of a simulated consultation with a
+    virtual patient. We classify questions according to the computational strategy
+    (rule-based or other) needed for looking up data in the clinical record. We
+    compare "traditional" machine learning methods (Gaussian and Multinomial
+    Naive Bayes, and Support Vector Machines) and a neural network classifier
+    (FastText). We obtained the best results with the SVM using semantic
+    annotations, whereas the neural classifier achieved promising results without
+    it.},
+  } 
   ```
 
    Note that these data were manually collected from books aimed at medical consultation and clinical examination, as well as resources for medical translation. These sources also need to be referenced as follows: 
